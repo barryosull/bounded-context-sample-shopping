@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/bounded-context-sample-shopping":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/bounded-context-sample-shopping","hostpath":"/Users/barryosullivan/Code/bounded-context-sample-shopping","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/barryosullivan/Code/bounded-context-sample-shopping","disabled":false}}}
