@@ -1,4 +1,5 @@
-/workbench
+/workbench/*
+!/workbench/readme.md
 /vendor
 /nbproject
 /node_modules
