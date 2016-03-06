@@ -105,8 +105,6 @@ class TestController extends Controller
             new Uuid('b98540d7-c3f9-4af3-8d77-e46662fcb3f6')
         ));
 
-        dd('roflolol');
-
         $player = $player_builder
             ->all()
             ->get();
