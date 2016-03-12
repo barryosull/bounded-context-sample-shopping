@@ -2,6 +2,9 @@
 
 use BoundedContext\Sourced\Aggregate\AbstractAggregate;
 
+/**
+ * @id 58682452-69aa-465e-943d-5b4c997c93ca
+ */
 class Aggregate extends AbstractAggregate implements \BoundedContext\Contracts\Sourced\Aggregate\Aggregate
 {
     protected function handle_create(
